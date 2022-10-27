@@ -1,1 +1,24 @@
-
+{
+  "users" : [
+    {
+      "id" : 1,
+      "name" : "Admin",
+      "message" : "Hello everybody"
+    }
+    {
+      "id" : 2,
+      "name" : "Sadek",
+      "message" : "Hello, Admin"
+    }
+    {
+      "id" : 3,
+      "name" : "Saad",
+      "message" : "Hello, Admin"
+    }
+    {
+      "id" : 4,
+      "name" : "Sheref",
+      "message" : "Hello, Admin"
+    }
+  ]
+}
